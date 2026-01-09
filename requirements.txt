@@ -9,3 +9,4 @@ chromadb
 sentence-transformers
 sqlite-utils
 bcrypt==4.1.2
+groq
